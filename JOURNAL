@@ -5,7 +5,7 @@ Description: osu!game macropad
 created_at: 2025-07-03
 ---
 
-July 3rd - 8 Hours
+July 3rd - 8 hours
 - made the decision for the osu!Pad, a player's best friend when playing osu!
 - created a repository for osu!Pad
 - downloaded and immediately started using KiCAD, drawing up my schematic and navigating the pcb builder. i luckily had a little experience designing PCBs in Fusion 360 beforehand, so figuring out how to use KiCAD wasn't tooooo bad...
@@ -27,7 +27,12 @@ July 3rd - 8 Hours
 - wasn't initially as bad as the bottom case, but still spent considerable time trying to figure out the measuring tool to get precise measurements in both KiCAD and fusion (keybindings and proper technique to maximize precision)
 - had some weird problem with not being able to edit sketch?? probably something to do with my fusion account and randomly losing privileges to some stuff. spent a lot of time trying to figure it out only to find out that restarting fusion was all i needed to do aaaaaaaaaaaaaaahhhhhhh
 - threw in the name of the macropad at the top of the case and called it a day
+![Fusion360_wBNtAylGHC](https://github.com/user-attachments/assets/1fdb8f9b-ad90-4e2a-97cf-d6bdf86eb898)
 
-
-
+July 8th - 3 hours
+- time to assemble everything together! 
+- threw all of the case design files together in fusion
+- oh wait... switch holes, as well as the USB-C port, were not aligned properly. spent some time adjusting positions and port placement.
+- exported as one step file and finished!
+![Fusion360_77AJlyBO9E](https://github.com/user-attachments/assets/98f5c349-a890-4517-b955-7a8b6c4ab3b1)
 
