@@ -1,0 +1,5 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref"
+1;"U1";"Seeed Studio XIAO RP2040";1;"XIAO-RP2040-DIP";"https://www.seeedstudio.com/XIAO-RP2040-v1.0-p-5026.html"
+2;"SW1,SW2,SW3,SW4,SW5";"SW_Cherry_MX_1.00u_PCB";5;"Cherry MX Switches";"https://www.digikey.ca/en/products/detail/cherry/DX1B-A1AA/6135510"
+3;"SW6,SW7";"RotaryEncoder_Alps_EC11E_Vertical_H20mm";2;"Rotary Encoder EC11";"https://www.digikey.ca/en/products/detail/alps-alpine/EC11E15244G2/1802623"
+4;"D1,D2,D3,D4,D5";"LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm";5;"SK6812MINI RGB LEDs";"https://www.aliexpress.com/item/1005003483779367.html"
