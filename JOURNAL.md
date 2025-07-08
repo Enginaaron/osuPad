@@ -2,10 +2,10 @@
 Title: osu!Pad
 Author: Aaron Dam
 Description: osu!game macropad
-Created_At: 2025-07-03
+Created At: 2025-07-03
+Total time spent: 14 hours
 ---
 
-Total time spent: 14 hours
 
 July 3rd - 8 hours
 - made the decision for the osu!Pad, a player's best friend when playing osu!
